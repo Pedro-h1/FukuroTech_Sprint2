@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Sem&#225;foro Inteligente - Fukuro Tech"/>
+        <attribute name="authors" value="Pedro Henrique Prandwiski Borges"/>
+        <attribute name="about" value="Semaforo Inteligente Inclusivo"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="perfil" type="Integer" array="False" size=""/>
+            <while expression="1 == 1">
+                <output expression="&quot;=== FASE 1 ===&quot;" newline="True"/>
+                <output expression="&quot;Carros: VERDE&quot;" newline="True"/>
+                <output expression="&quot;Pedestres: VERMELHO&quot;" newline="True"/>
+                <output expression="&quot;Faixa: VERMELHA&quot;" newline="True"/>
+                <output expression="&quot;Digite qual &#233; o seu perfil (1 - Autista, 2 - Cadeirante, 3 - Visual, 4 - Idoso):&quot;" newline="True"/>
+                <input variable="perfil"/>
+                <if expression="perfil == 1">
+                    <then>
+                        <output expression="&quot;=== MODO AUTISTA ===&quot;" newline="True"/>
+                        <output expression="&quot;Tempo de travessia: 15 segundos&quot;" newline="True"/>
+                        <output expression="&quot;=== FASE 2 ===&quot;" newline="True"/>
+                        <output expression="&quot;Carros: AMARELO&quot;" newline="True"/>
+                        <output expression="&quot;Pedestres: VERMELHO&quot;" newline="True"/>
+                        <output expression="&quot;Faixa: VERMELHA&quot;" newline="True"/>
+                        <output expression="&quot;Tempo da fase: 2 segundos&quot;" newline="True"/>
+                        <output expression="&quot;=== FASE 3 ===&quot;" newline="True"/>
+                        <output expression="&quot;Carros: VERMELHO&quot;" newline="True"/>
+                        <output expression="&quot;Pedestres: VERDE&quot;" newline="True"/>
+                        <output expression="&quot;Faixa: VERDE&quot;" newline="True"/>
+                        <output expression="&quot;Tempo da fase: 15 segundos&quot;" newline="True"/>
+                        <output expression="&quot;=== FASE 4 ===&quot;" newline="True"/>
+                        <output expression="&quot;Carros: AMARELO&quot;" newline="True"/>
+                        <output expression="&quot;Pedestres: VERMELHO&quot;" newline="True"/>
+                        <output expression="&quot;Faixa: VERMELHA&quot;" newline="True"/>
+                        <output expression="&quot;Tempo da fase: 2 segundos&quot;" newline="True"/>
+                    </then>
+                    <else>
+                        <if expression="perfil == 2">
+                            <then>
+                                <output expression="&quot;=== MODO CADEIRANTE ===&quot;" newline="True"/>
+                                <output expression="&quot;Tempo de travessia: 20 segundos&quot;" newline="True"/>
+                                <output expression="&quot;=== FASE 2 ===&quot;" newline="True"/>
+                                <output expression="&quot;Carros: AMARELO&quot;" newline="True"/>
+                                <output expression="&quot;Pedestres: VERMELHO&quot;" newline="True"/>
+                                <output expression="&quot;Faixa: VERMELHA&quot;" newline="True"/>
+                                <output expression="&quot;=== FASE 3 ===&quot;" newline="True"/>
+                                <output expression="&quot;Carros: VERMELHO&quot;" newline="True"/>
+                                <output expression="&quot;Pedestres: VERDE&quot;" newline="True"/>
+                                <output expression="&quot;Faixa: VERDE&quot;" newline="True"/>
+                                <output expression="&quot;Som: Um bip curto&quot;" newline="True"/>
+                                <output expression="&quot;Tempo da fase: 20 segundos&quot;" newline="True"/>
+                                <output expression="&quot;=== FASE 4 ===&quot;" newline="True"/>
+                                <output expression="&quot;Carros: AMARELO&quot;" newline="True"/>
+                                <output expression="&quot;Pedestres: VERMELHO&quot;" newline="True"/>
+                                <output expression="&quot;Faixa: VERMELHA&quot;" newline="True"/>
+                                <output expression="&quot;Som: Um bip curto&quot;" newline="True"/>
+                            </then>
+                            <else>
+                                <if expression="perfil == 3">
+                                    <then>
+                                        <output expression="&quot;=== MODO DEFICIENTE VISUAL ===&quot;" newline="True"/>
+                                        <output expression="&quot;Tempo de travessia: 18 segundos&quot;" newline="True"/>
+                                        <output expression="&quot;=== FASE 2 ===&quot;" newline="True"/>
+                                        <output expression="&quot;Carros: AMARELO&quot;" newline="True"/>
+                                        <output expression="&quot;Pedestres: VERMELHO&quot;" newline="True"/>
+                                        <output expression="&quot;Faixa: VERMELHA&quot;" newline="True"/>
+                                        <output expression="&quot;=== FASE 3 ===&quot;" newline="True"/>
+                                        <output expression="&quot;Carros: VERMELHO&quot;" newline="True"/>
+                                        <output expression="&quot;Pedestres: VERDE&quot;" newline="True"/>
+                                        <output expression="&quot;Faixa: VERDE&quot;" newline="True"/>
+                                        <output expression="&quot;Som: Bips continuos aumentando a velocidade&quot;" newline="True"/>
+                                        <output expression="&quot;Tempo da fase: 18 segundos&quot;" newline="True"/>
+                                        <output expression="&quot;=== FASE 4 ===&quot;" newline="True"/>
+                                        <output expression="&quot;Carros: AMARELO&quot;" newline="True"/>
+                                        <output expression="&quot;Pedestres: VERMELHO&quot;" newline="True"/>
+                                        <output expression="&quot;Faixa: VERMELHA&quot;" newline="True"/>
+                                        <output expression="&quot;Som: Bips continuos aumentando a velocidade e ao fim um bip agudo&quot;" newline="True"/>
+                                    </then>
+                                    <else>
+                                        <output expression="&quot;=== MODO IDOSO ===&quot;" newline="True"/>
+                                        <output expression="&quot;Tempo de travessia: 20 segundos&quot;" newline="True"/>
+                                        <output expression="&quot;=== FASE 2 ===&quot;" newline="True"/>
+                                        <output expression="&quot;Carros: AMARELO&quot;" newline="True"/>
+                                        <output expression="&quot;Pedestres: VERMELHO&quot;" newline="True"/>
+                                        <output expression="&quot;Faixa: VERMELHA&quot;" newline="True"/>
+                                        <output expression="&quot;=== FASE 3 ===&quot;" newline="True"/>
+                                        <output expression="&quot;Carros: VERMELHO&quot;" newline="True"/>
+                                        <output expression="&quot;Pedestres: VERDE&quot;" newline="True"/>
+                                        <output expression="&quot;Faixa: VERDE&quot;" newline="True"/>
+                                        <output expression="&quot;Som: 1 Bip curto agudo&quot;" newline="True"/>
+                                        <output expression="&quot;Tempo da fase: 20 segundos&quot;" newline="True"/>
+                                        <output expression="&quot;=== FASE 4 ===&quot;" newline="True"/>
+                                        <output expression="&quot;Carros: AMARELO&quot;" newline="True"/>
+                                        <output expression="&quot;Pedestres: VERMELHO&quot;" newline="True"/>
+                                        <output expression="&quot;Faixa: VERMELHA&quot;" newline="True"/>
+                                        <output expression="&quot;Som: 4 Bips curtos agudos e 1 curto medio&quot;" newline="True"/>
+                                    </else>
+                                </if>
+                            </else>
+                        </if>
+                    </else>
+                </if>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
