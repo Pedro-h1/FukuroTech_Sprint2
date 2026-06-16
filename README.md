@@ -68,9 +68,9 @@
 </div>
 
 <p align="center">
-<a href="#">🎥 Vídeo de Apresentação do Projeto em Arduino</a><br>
-<a href="./assets/fotos_projeto/">📸 Fotos do Projeto Físico em Arduino</a><br>
-<a href="./assets/simulacao_tinkercad.gif">📽️ Vídeo Representativo no Tinkercad</a>
+<a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Vídeo%20de%20Apresentação%20do%20Projeto%20em%20Arduino.mp4">🎥 Vídeo de Apresentação do Projeto em Arduino</a><br>
+<a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Foto%20do%20Projeto%20Físico%20em%20Arduino.jpeg">📸 Foto do Projeto Físico em Arduino</a><br>
+<a href="#">📽️ Vídeo Representativo no Tinkercad</a><br>
 <a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/sem_foro_inteligente_inclusivo_fukuro1.ino">🖥️ Código C/C++ do Thinkercad</a>
 </p>
 
@@ -107,8 +107,8 @@
 </div>
 
 <p align="center">
-<a href="./logic/fluxograma.fprg">📐 Fluxograma do Sistema — Flowgorithm</a><br>
-<a href="./logic/pseudocodigo.por">📈 Diagrama do Projeto — Portugol Studio</a>
+<a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Semáforo%20Inteligente%20-%20Fukuro%20Tech.fprg">📐 Fluxograma do Sistema — Flowgorithm</a><br>
+<a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Semáforo%20Inteligente%20-%20Fukuro%20Tech%20Dev.por">📈 Diagrama do Projeto — Portugol Studio</a><br>
 <a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Sem%C3%A1foro%20Inteligente%20-%20Fukuro%20Tech%20Dev.por">✍️ Pseudocódigo Operacional — Portugol Studio</a>
 </p>
 
@@ -125,9 +125,9 @@
 </div>
 
 <p align="center">
-<a href="./management/5w2h.xlsx">📋 Matriz de Planejamento 5W2H — Excel</a><br>
-<a href="./management/cronograma.xlsx">📅 Cronograma de Atividades — Excel</a><br>
-<a href="./management/daily_scrum.md">📹 Vídeos das Daily Scrums</a>
+<a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/FUKURO%20TECH%20—%205W2H%20I%20SPRINT%202.pdf">📋 Matriz de Planejamento 5W2H — Excel</a><br>
+<a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Cronograma%20das%20Semanas%20-%20Sprint%202.pdf">📅 Cronograma de Atividades — Excel</a><br>
+<a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Vídeo%20das%20Daily%20Scrums%20e%20Produção%20do%20Projeto.mp4">📹 Vídeo das Daily Scrums e Produção do Projeto</a>
 </p>
 
 ---
@@ -143,8 +143,9 @@
 </div>
 
 <p align="center">
-<a href="./docs/GR1_ABNT.doc">📄 Documentação do Projeto (Formatação ABNT) — Word</a><br>
-<a href="./docs/GR1_SLIDES.pdf">🖥️ Slides de Apresentação — PDF</a>
+<a href="#">📄 Documentação do Projeto (Formatação ABNT) — Word</a><br>
+<a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Slides%20de%20Apresentação%20—%20Vídeo.mp4">🖥️ Slides de Apresentação — Vídeo</a><br>
+<a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Slides%20de%20Apresentação%20—%20PDF.pdf">📄 Slides de Apresentação — PDF</a>
 </p>
 
 <br>
