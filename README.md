@@ -70,8 +70,8 @@
 <p align="center">
 <a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Vídeo%20de%20Apresentação%20do%20Projeto%20em%20Arduino.mp4">🎥 Vídeo de Apresentação do Projeto em Arduino</a><br>
 <a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Foto%20do%20Projeto%20Físico%20em%20Arduino.jpeg">📸 Foto do Projeto Físico em Arduino</a><br>
-<a href="#">📽️ Vídeo Representativo no Tinkercad</a><br>
-<a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/sem_foro_inteligente_inclusivo_fukuro1.ino">🖥️ Código C/C++ do Thinkercad</a>
+<a href="https://github.com/Pedro-h1/FukuroTech_Sprint2/blob/main/assets/V%C3%ADdeo%20Representativo%20no%20Thinkercad.mp4">📽️ Vídeo Representativo no Tinkercad</a><br>
+<a href="https://github.com/Pedro-h1/FukuroTech_Sprint2/blob/main/assets/C%C3%B3digo%20C%2B%2B%20do%20Thinkercad.ino">🖥️ Código C++ do Thinkercad</a>
 </p>
 
 <div align="center">
