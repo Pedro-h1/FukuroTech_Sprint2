@@ -109,7 +109,7 @@
 <p align="center">
 <a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Semáforo%20Inteligente%20-%20Fukuro%20Tech.fprg">📐 Fluxograma do Sistema — Flowgorithm</a><br>
 <a href="https://github.com/Pedro-h1/FukuroTech_Sprint2/blob/main/assets/Diagrama%20do%20Projeto%20%E2%80%94%20Canva.png">📈 Diagrama do Projeto — Canva</a><br>
-<a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Sem%C3%A1foro%20Inteligente%20-%20Fukuro%20Tech%20Dev.por">✍️ Pseudocódigo Operacional — Portugol Studio</a>
+<a href="https://github.com/Pedro-h1/FukuroTech_Sprint2/blob/main/assets/Sem%C3%A1foro%20Inteligente%20-%20Fukuro%20Tech.por">✍️ Pseudocódigo Operacional — Portugol Studio</a>
 </p>
 
 ---
