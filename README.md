@@ -34,7 +34,6 @@
 
 # <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=00A896&center=true&vCenter=true&width=750&lines=🔌+Componentes+do+Circuito" /></div>
 
-<div align="center">
 | Item | Quantidade |
 | :--- | :---: |
 | Placa Arduino UNO | 1 |
@@ -46,25 +45,60 @@
 | Botão de Pressão | 4 |
 | Protoboard | 2 |
 | Cabos Jumper | 20 |
+
+---
+
+# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=12000&pause=3000&startDelay=0&color=00A896&center=true&vCenter=true&width=850&lines=💻+Fluxogramas+e+Pseudoc%C3%B3digos" /></div>
+
+<div align="center">
+  <p>
+    Estruturação do fluxo computacional e regras de funcionamento dos tempos de travessia do sistema.
+  </p>
 </div>
 
----
-
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=00A896&center=true&vCenter=true&width=750&lines=💻+Fluxogramas+e+Pseudocódigos" /></div>
-
-<div align="center"><p>📐 Estruturação do fluxo computacional e das regras de funcionamento dos tempos de travessia do sistema.</p></div>
-
----
-
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=00A896&center=true&vCenter=true&width=750&lines=📊+Gestão+de+Projeto+e+Registros" /></div>
-
-<div align="center"><p>📅 Organização de prazos, tarefas da equipe e registros dos alinhamentos diários.</p></div>
+<p align="center">
+<a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Semáforo%20Inteligente%20-%20Fukuro%20Tech.fprg">📐 Fluxograma do Sistema — Flowgorithm</a><br>
+<a href="https://github.com/Pedro-h1/FukuroTech_Sprint2/blob/main/assets/Diagrama%20do%20Projeto%20%E2%80%94%20Canva.png">📈 Diagrama do Projeto — Canva</a><br>
+<a href="https://github.com/Pedro-h1/FukuroTech_Sprint2/blob/main/assets/Sem%C3%A1foro%20Inteligente%20-%20Fukuro%20Tech.por">✍️ Pseudocódigo Operacional — Portugol Studio</a>
+</p>
 
 ---
 
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=00A896&center=true&vCenter=true&width=750&lines=📄+Documentação+e+Apresentação" /></div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=12000&pause=3000&startDelay=0&color=00A896&center=true&vCenter=true&width=850&lines=📊+Gest%C3%A3o+de+Projeto+e+Registros" />
+</div>
 
-<div align="center"><p>📄 Relatório acadêmico, documentação técnica e materiais de apresentação da Sprint 2.</p></div>
+<div align="center">
+  <p>
+    Organização de prazos, tarefas da equipe e documentação dos alinhamentos diários do time.
+  </p>
+</div>
+
+<p align="center">
+<a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/FUKURO%20TECH%20—%205W2H%20I%20SPRINT%202.pdf">📋 Matriz de Planejamento 5W2H — Excel</a><br>
+<a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Cronograma%20das%20Semanas%20-%20Sprint%202.pdf">📅 Cronograma de Atividades — Excel</a><br>
+<a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Vídeo%20das%20Daily%20Scrums%20e%20Produção%20do%20Projeto.mp4">📹 Vídeo das Daily Scrums e Produção do Projeto</a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=12000&pause=3000&startDelay=0&color=00A896&center=true&vCenter=true&width=850&lines=📄+Documenta%C3%A7%C3%A3o+e+Apresenta%C3%A7%C3%A3o" />
+</div>
+
+<div align="center">
+  <p>
+    Relatório acadêmico oficial com as correções solicitadas e material de apoio visual para a defense.
+  </p>
+</div>
+
+<p align="center">
+<a href="https://github.com/Pedro-h1/FukuroTech_Sprint2/blob/main/assets/Documenta%C3%A7%C3%A3o%20do%20Projeto%20%E2%80%94%20GR1.pdf">📄 Documentação do Projeto (Formatação ABNT) — Word</a><br>
+<a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Slides%20de%20Apresentação%20—%20Vídeo.mp4">🖥️ Slides de Apresentação — Vídeo</a><br>
+<a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Slides%20de%20Apresentação%20—%20PDF.pdf">📄 Slides de Apresentação — PDF</a>
+</p>
+
+<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=00A896&animation=fadeIn" width="100%" />
