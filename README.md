@@ -1,17 +1,17 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00A896,100:007F73&text=🤖+Fukuro+Tech+—+Sprint+2&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=🌐+Semáforos+Inteligentes+e+Acessíveis&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:063B3D,100:00979D&text=🤖+Fukuro+Tech+—+Sprint+2&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=🌐+Semáforos+Inteligentes+e+Acessíveis&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=00A896&center=true&vCenter=true&width=750&lines=📘+Sobre+o+Projeto" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=00979D&center=true&vCenter=true&width=750&lines=%F0%9F%93%98+Sobre+o+Projeto" />
 </div>
 <div align="center">
-    <p>📌 Automação de um <strong>semáforo inteligente de duas vias</strong> com foco em <strong>acessibilidade urbana</strong>. O sistema utiliza <strong>Arduino UNO</strong> para coordenar o tempo de travessia e emitir sinais de segurança para pedestres e pessoas com diferentes necessidades de acessibilidade.</p>
+    <p>Automação de um <strong>semáforo inteligente de duas vias</strong> com foco em <strong>acessibilidade urbana</strong>. O sistema utiliza <strong>Arduino UNO</strong> para coordenar o tempo de travessia e emitir sinais de segurança para pedestres e pessoas com diferentes necessidades de acessibilidade.</p>
 </div>
 
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=00A896&center=true&vCenter=true&width=750&lines=⚙️+Tecnologias+e+Ferramentas" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=00979D&center=true&vCenter=true&width=750&lines=%E2%9A%99%EF%B8%8F+Tecnologias+e+Ferramentas" />
 </div>
 <div align="center">
     <p>🔌 Arduino UNO & Eletrônica Básica</p>
@@ -24,16 +24,16 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=00A896&center=true&vCenter=true&width=750&lines=🧠+Objetivo+da+Sprint+2" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=00979D&center=true&vCenter=true&width=750&lines=%F0%9F%A7%A0+Objetivo+da+Sprint+2" />
 </div>
 <div align="center">
-    <p>🎯 Apresentar a evolução do projeto unindo o <strong>circuito físico funcional</strong>, a <strong>modelagem lógica</strong>, o <strong>gerenciamento da equipe</strong> e a <strong>documentação acadêmica</strong>.</p>
+    <p>Apresentar a evolução do projeto unindo o <strong>circuito físico funcional</strong>, a <strong>modelagem lógica</strong>, o <strong>gerenciamento da equipe</strong> e a <strong>documentação acadêmica</strong>.</p>
 </div>
 
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=00A896&center=true&vCenter=true&width=750&lines=👥+Integrantes+e+Papéis+da+Equipe+Scrum" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=00979D&center=true&vCenter=true&width=750&lines=%F0%9F%91%A5+Integrantes+e+Pap%C3%A9is+da+Equipe+Scrum" />
 </div>
 <div align="center">
     <p>👑 Luana Camargo — Project Owner</p>
@@ -47,16 +47,13 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=00A896&center=true&vCenter=true&width=750&lines=📚+Atividades+e+Projetos+da+Sprint+2" />
-</div>
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=00A896&center=true&vCenter=true&width=750&lines=🛠️+Hardware+e+Software+do+Projeto" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=00979D&center=true&vCenter=true&width=750&lines=%F0%9F%9B%A0%EF%B8%8F+Hardware+e+Software+%E2%80%94+Sprint+2" />
 </div>
 <div align="center">
     <p>Montagem e demonstração prática do circuito do semáforo de duas vias com buzzer, sensor RFID e chips de sensor TAG programáveis.</p>
 </div>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=00A896&center=true&vCenter=true&width=750&lines=🔌+Componentes+do+Circuito" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=00979D&center=true&vCenter=true&width=750&lines=%F0%9F%94%8C+Componentes+do+Circuito" />
 </div>
 <div align="center">
 
@@ -77,52 +74,52 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=12000&pause=3000&startDelay=0&color=00A896&center=true&vCenter=true&width=850&lines=💻+Fluxogramas+e+Pseudoc%C3%B3digos" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=12000&pause=3000&startDelay=0&color=00979D&center=true&vCenter=true&width=850&lines=%F0%9F%92%BB+Fluxogramas+e+Pseudoc%C3%B3digos" />
 </div>
 <div align="center">
     <p>
-        <p>Estruturação do fluxo computacional e regras de funcionamento dos tempos de travessia do sistema.</p>
+    <p>Estruturação do fluxo computacional e regras de funcionamento dos tempos de travessia do sistema.</p>
     </p>
 </div>
 <p align="center">
-    <a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Semáforo%20Inteligente%20-%20Fukuro%20Tech.fprg">📐 Fluxograma do Sistema — Flowgorithm</a><br>
-    <a href="https://github.com/Pedro-h1/FukuroTech_Sprint2/blob/main/assets/Diagrama%20do%20Projeto%20%E2%80%94%20Canva.png">📈 Diagrama do Projeto — Canva</a><br>
-    <a href="https://github.com/Pedro-h1/FukuroTech_Sprint2/blob/main/assets/Sem%C3%A1foro%20Inteligente%20-%20Fukuro%20Tech.por">✍️ Pseudocódigo Operacional — Portugol Studio</a>
+<a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Semáforo%20Inteligente%20-%20Fukuro%20Tech.fprg">📐 Fluxograma do Sistema — Flowgorithm</a><br>
+<a href="https://github.com/Pedro-h1/FukuroTech_Sprint2/blob/main/assets/Diagrama%20do%20Projeto%20%E2%80%94%20Canva.png">📈 Diagrama do Projeto — Canva</a><br>
+<a href="https://github.com/Pedro-h1/FukuroTech_Sprint2/blob/main/assets/Sem%C3%A1foro%20Inteligente%20-%20Fukuro%20Tech.por">✍️ Pseudocódigo Operacional — Portugol Studio</a>
 </p>
 
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=12000&pause=3000&startDelay=0&color=00A896&center=true&vCenter=true&width=850&lines=📊+Gest%C3%A3o+de+Projeto+e+Registros" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=12000&pause=3000&startDelay=0&color=00979D&center=true&vCenter=true&width=850&lines=%F0%9F%93%8A+Gest%C3%A3o+de+Projeto+e+Registros" />
 </div>
 <div align="center">
     <p>
-        <p>Organização de prazos, tarefas da equipe e documentação dos alinhamentos diários do time.</p>
+    <p>Organização de prazos, tarefas da equipe e documentação dos alinhamentos diários do time.</p>
     </p>
 </div>
 <p align="center">
-    <a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/FUKURO%20TECH%20—%205W2H%20I%20SPRINT%202.pdf">📋 Matriz de Planejamento 5W2H — Excel</a><br>
-    <a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Cronograma%20das%20Semanas%20-%20Sprint%202.pdf">📅 Cronograma de Atividades — Excel</a><br>
-    <a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Vídeo%20das%20Daily%20Scrums%20e%20Produção%20do%20Projeto.mp4">📹 Vídeo das Daily Scrums e Produção do Projeto</a>
+<a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/FUKURO%20TECH%20—%205W2H%20I%20SPRINT%202.pdf">📋 Matriz de Planejamento 5W2H — Excel</a><br>
+<a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Cronograma%20das%20Semanas%20-%20Sprint%202.pdf">📅 Cronograma de Atividades — Excel</a><br>
+<a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Vídeo%20das%20Daily%20Scrums%20e%20Produção%20do%20Projeto.mp4">📹 Vídeo das Daily Scrums e Produção do Projeto</a>
 </p>
 
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=12000&pause=3000&startDelay=0&color=00A896&center=true&vCenter=true&width=850&lines=📄+Documenta%C3%A7%C3%A3o+e+Apresenta%C3%A7%C3%A3o" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=12000&pause=3000&startDelay=0&color=00979D&center=true&vCenter=true&width=850&lines=%F0%9F%93%84+Documenta%C3%A7%C3%A3o+e+Apresenta%C3%A7%C3%A3o" />
 </div>
 <div align="center">
     <p>
-        <p>Relatório acadêmico oficial com as correções solicitadas e material de apoio visual para a defense.</p>
+    <p>Relatório acadêmico oficial com as correções solicitadas e material de apoio visual para a defense.</p>
     </p>
 </div>
 <p align="center">
-    <a href="https://github.com/Pedro-h1/FukuroTech_Sprint2/blob/main/assets/Documenta%C3%A7%C3%A3o%20do%20Projeto%20%E2%80%94%20GR1.pdf">📄 Documentação do Projeto (Formatação ABNT) — Word</a><br>
-    <a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Slides%20de%20Apresentação%20—%20Vídeo.mp4">🖥️ Slides de Apresentação — Vídeo</a><br>
-    <a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Slides%20de%20Apresentação%20—%20PDF.pdf">📄 Slides de Apresentação — PDF</a>
+<a href="https://github.com/Pedro-h1/FukuroTech_Sprint2/blob/main/assets/Documenta%C3%A7%C3%A3o%20do%20Projeto%20%E2%80%94%20GR1.pdf">📄 Documentação do Projeto (Formatação ABNT) — Word</a><br>
+<a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Slides%20de%20Apresentação%20—%20Vídeo.mp4">🖥️ Slides de Apresentação — Vídeo</a><br>
+<a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Slides%20de%20Apresentação%20—%20PDF.pdf">📄 Slides de Apresentação — PDF</a>
 </p>
 
 <br>
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:007F73,100:00A896&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00979D,100:063B3D&animation=fadeIn" width="100%" />
 </div>
